@@ -1,0 +1,15 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Bookmark",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":{"16":"bookmark.png",
+        "32":"bookmark.png",
+        "48":"bookmark.png",
+        "128":"bookmark.png"}
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
