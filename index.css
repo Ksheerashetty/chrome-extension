@@ -4,33 +4,36 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
     background-color: black;
-    color: azure;
+    color:  #c6aff0;
 }button{
-    background-color: rgb(55, 7, 139);
+    background-color: #37078b;
     border-radius: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
-    border: 1px solid black;
+   box-shadow:2px 3px 8px -2px  #c6a6ff ;
     padding: 10px 20px;
     font-weight: bold;
-    color: azure;
+    color:  #c6a6ff;
+    border: none;
 }
 #delete-el{
-    background-color: white;
+    background-color: #cfbded;
     border-radius: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
-    border: 1px solid black;
+    border: none;
     padding: 10px 20px;
     font-weight: bold;
-    color:rgb(55, 7, 139);
+    color:#37078b;
+    box-shadow:2px 3px 8px -2px  #9765ec ;
 
 }
 input{
     background: none;
     color: azure;
-    border-color:10px azure;
     border-radius: 10px;
+    box-shadow: 1px 2px 8px -1px #c6a6ff ;
+    border: none;
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
